@@ -1,19 +1,42 @@
-## Hallo Semua 👋
+# Hi, I'm Agnes Triani Dasan
 
-Perkenalkan, saya **Agnes Triani Dasan**.  
+Saya adalah lulusan Teknologi Informasi yang saat ini sedang membangun fondasi untuk berkarier sebagai **AI Engineer / Data Scientist**.  
+Perjalanan ini masih berada di tahap awal. Saat ini saya fokus memperkuat dasar-dasar seperti **Python, logika pemrograman, serta memahami konsep dasar machine learning** sebagai bekal untuk berkembang di bidang AI dan data.  
 
-Saat ini saya sedang membangun fondasi untuk berkarier sebagai AI Engineer / Data Scientist.   
-Perjalanan ini masih di tahap awal, jadi fokus saya adalah memperkuat dasar seperti Python, logika pemrograman, dan memahami konsep dasar machine learning.  
+---
 
-Ketertarikan saya pada langit dan antariksa menjadi alasan saya memilih jalur ini. Saya ingin suatu hari bisa memahami dan mengolah data yang berkaitan dengan ruang angkasa. Untuk menuju ke sana, saya memulai dari langkah-langkah kecil dan terus belajar secara konsisten.  
+## 🌌 Ketertarikan Saya  
 
-GitHub ini adalah ruang belajar sekaligus catatan perkembangan saya.   
-Beberapa hal yang sedang saya pelajari saat ini antara lain:  
-- 🌱 Python dan dasar-dasar machine learning  
-- 🔭 Pembuatan proyek latihan sederhana  
-- 📖 Proses bagaimana data dapat diolah menjadi model dasar  
+Ketertarikan saya pada **langit dan antariksa** menjadi alasan utama saya memilih jalur ini.  
+Saya berharap suatu hari dapat memahami dan mengolah **data yang berkaitan dengan ruang angkasa**.  
 
-LinkedIn: https://www.linkedin.com/in/a-triani-dasan-7bb283371/  
+Untuk menuju ke sana, saya memulai dari langkah-langkah kecil dan terus belajar secara konsisten.  
 
-Terima kasih sudah berkunjung.    
-Saya masih di awal perjalanan, tetapi saya berkomitmen untuk terus berkembang sedikit demi sedikit 🚀
+---
+
+## 🌱 Hal yang Sedang Saya Pelajari  
+
+Saat ini saya sedang mempelajari beberapa hal berikut:  
+- Python programming fundamentals
+- Konsep dasar machine learning
+- Pembuatan proyek latihan sederhana
+- Memahami bagaimana data dapat diolah menjadi model dasar
+
+---
+
+## 📂 Tentang Repository Ini  
+
+Github ini adalah **ruang belajar sekaligus catatan perkembangan saya**.  
+Di sini saya menyimpan berbagai latihan, eksperimen kecil, dan proyek sederhana yang saya kerjakan selama proses belajar.  
+
+---  
+
+## 🔗 Connect With Me  
+
+LinkedIn  
+https://www.linkedin.com/in/a-triani-dasan-7bb283371/  
+
+---  
+
+Terima kasih sudah berkunjung ke Github saya.  
+Saya masih berada di awal perjalanan, tetapi saya berkomitmen untuk terus berkembang sedikit demi sedikit 🚀
